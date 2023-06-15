@@ -1,0 +1,7 @@
+{
+  "server": "ricard.social",
+  "home-timeline-length": 200,
+  "backfill-mentioned-users": 0,
+  "backfill-with-context": 0,
+  "reply-interval-in-hours": 0
+}
